@@ -4,7 +4,7 @@ public class TextExmaple {
 
 	public static void main(String[] args) {
 		
-		//단일 저장하는 데이터 타입 char
+		//단일 저장하는 데이터 타입 char [2byte]
 		char c1 = 'A';
 		char c2 = 65;
 		
